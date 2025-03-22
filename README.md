@@ -1,4 +1,4 @@
-Video hướng dẫn: https://youtu.be/UUCJgYGWDNA<br>
+Video demo: https://youtu.be/UUCJgYGWDNA<br>
 <br>
 Hướng dẫn sử dụng:
 1. Lắp mạch như sơ đồ sau<br>
